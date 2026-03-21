@@ -1,0 +1,3 @@
+yt=start chrome https://youtube.com
+code=start code
+notepad=start notepadinsta=start chrome https://instagram.com
