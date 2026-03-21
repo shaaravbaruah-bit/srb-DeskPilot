@@ -2,11 +2,15 @@
 
 DeskPilot is a simple C++ text-based desktop assistant that executes system commands.
 
-## Features
+## 🚀 Features
+- Command-based desktop automation
+- Custom user-defined commands
+- Persistent command storage (commands.txt)
+- Real-time command execution
 
-- Open applications using text commands
-- Lightweight CLI tool
-- Modular C++ structure
+## 🛠 Example
+add yt start chrome https://youtube.com
+yt
 
 ## Commands
 
